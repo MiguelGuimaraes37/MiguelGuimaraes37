@@ -10,18 +10,3 @@
 <a href="https://discord.gg/MohDeli#6603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MohDeli#6603" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  
-  <a href ="https://www.python.org/" target="_blank" rel="noreferrer"> 
-  <img src ="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>    </a>
-  
-  <a href ="https://learn.microsoft.com/pt-br/cpp/c-language/?view=msvc-170" target="_blank" rel="noreferrer"> 
-  <img src ="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>    </a>
- 
-  <a href ="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
-  <img src ="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="c#" width="40" height="40"/>    </a>
- 
-  </p>
