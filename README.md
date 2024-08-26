@@ -2,7 +2,7 @@
 <h3 align="center">Junior Fullstack Developer</h3>
 
 - 🌱 I’m currently working with projects on Java like the Breakout Game, OzNightManager and developing some new skills;
-- 📈 <a href="[https://www.linkedin.com/in/miguel-guimar%C3%A3es-206b49239/](https://www.udemy.com/share/107kpg3@mbzaexMHwrgjnDqstSr6NxzhFAb-_jQErIQ1myk7W-dpfTj_Favg527JrtD8DZuXqQ==/)" target="blank"><img align="center" alt="miguelguimaraes"/> I'm currently taking a certificate in UNIX commands </a>
+- 📈 <a href="[https://www.linkedin.com/in/miguel-guimar%C3%A3es-206b49239/](https://www.udemy.com/share/107kpg3@mbzaexMHwrgjnDqstSr6NxzhFAb-_jQErIQ1myk7W-dpfTj_Favg527JrtD8DZuXqQ==/)" target="blank"> I'm currently taking a certificate in UNIX commands </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
