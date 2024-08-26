@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miguel Guimarães</h1>
-<h3 align="center">Programming Student from Portugal</h3>
+<h3 align="center">Junior Fullstack Developer</h3>
 
 - 🌱 I’m currently learning OutSystems, Visual Basic, Python, C, C#, Java and many more...
 
