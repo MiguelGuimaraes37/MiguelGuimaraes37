@@ -3,11 +3,9 @@
 
 - 🌱 I’m currently working with projects on Java like the Breakout Game, OzNightManager and developing some new skills;
 
-- <a href="https://www.udemy.com/share/107kpg3@mbzaexMHwrgjnDqstSr6NxzhFAb-_jQErIQ1myk7W-dpfTj_Favg527JrtD8DZuXqQ==" target="_blank">
+- <a href="(https://www.udemy.com/share/107kpg3@mbzaexMHwrgjnDqstSr6NxzhFAb-_jQErIQ1myk7W-dpfTj_Favg527JrtD8DZuXqQ==/)" target="blank"><img align="center" src="(https://www.udemy.com/share/107kpg3@mbzaexMHwrgjnDqstSr6NxzhFAb-_jQErIQ1myk7W-dpfTj_Favg527JrtD8DZuXqQ==/)" alt="M" height="30" width="40" /></a> I'm currently taking a certificate in UNIX commands -> <a href="https://www.udemy.com/share/107kpg3@mbzaexMHwrgjnDqstSr6NxzhFAb-_jQErIQ1myk7W-dpfTj_Favg527JrtD8DZuXqQ==" target="_blank">
     <i class="fas fa-link"></i> Udemy Course Link
 </a>
-
-- <a href="(https://www.udemy.com/share/107kpg3@mbzaexMHwrgjnDqstSr6NxzhFAb-_jQErIQ1myk7W-dpfTj_Favg527JrtD8DZuXqQ==/)" target="blank"><img align="center" src="(https://www.udemy.com/share/107kpg3@mbzaexMHwrgjnDqstSr6NxzhFAb-_jQErIQ1myk7W-dpfTj_Favg527JrtD8DZuXqQ==/)" alt="M" height="30" width="40" /></a> I'm currently taking a certificate in UNIX commands
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
