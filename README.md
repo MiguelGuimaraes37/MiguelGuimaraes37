@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miguel Guimarães</h1>
 <h3 align="center">Junior Fullstack Developer</h3>
 
-- 🌱 I’m currently working with projects on Java like the Breakout Game, OzNightManager and developing some new skills;
+- 🌱 I’m currently working with projects on Java like the Breakout Game, BoxPaint, OzNightManager and developing some new skills;
 
 - 🧠 I'm currently taking a certificate in UNIX commands -> <a href="https://www.udemy.com/share/107kpg3@mbzaexMHwrgjnDqstSr6NxzhFAb-_jQErIQ1myk7W-dpfTj_Favg527JrtD8DZuXqQ==" target="_blank">
     <i class="fas fa-link"></i> Udemy Course Link
