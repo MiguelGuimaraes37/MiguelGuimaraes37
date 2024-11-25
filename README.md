@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Miguel Guimarães</h1>
 <h3 align="center">Junior FullStack Developer from Portugal</h3>
 
-- 🔭 I’m currently working on [Book API](https://github.com/MiguelGuimaraes37/apiExercise.git) with Docker
-
 - 🌱 I’m currently learning **https://www.udemy.com/share/107kpg3@McDTXulhNYjd1gFN2D1JjXatd3ZaZtn1DEYd4CSksUaCypLUsR7A4FvetEXTx-X9VA==/**
 **https://www.udemy.com/share/101WeY3@pOTyxLDwXUK_nvIdXIEitWlmTPdMjXx8nXPdiJa01MwIlPrno9GL5fe3OFC4m0l4qw==/**
 
