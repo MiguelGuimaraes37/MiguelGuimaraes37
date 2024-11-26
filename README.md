@@ -2,12 +2,10 @@
 <h3 align="center">Junior FullStack Developer from Portugal</h3>
 
 - 🌱 I’m currently learning:
+  href="https://www.udemy.com/share/107kpg3@McDTXulhNYjd1gFN2D1JjXatd3ZaZtn1DEYd4CSksUaCypLUsR7A4FvetEXTx-X9VA==/" target="_blank">JS Course </a>
 
-<ul>
-  <li>href="https://www.udemy.com/share/107kpg3@McDTXulhNYjd1gFN2D1JjXatd3ZaZtn1DEYd4CSksUaCypLUsR7A4FvetEXTx-X9VA==/" target="_blank">JS Course </li>
-<li>href="https://www.udemy.com/share/101WeY3@pOTyxLDwXUK_nvIdXIEitWlmTPdMjXx8nXPdiJa01MwIlPrno9GL5fe3OFC4m0l4qw==/" target="_blank">Unix Commands Course</a> </li>
+href="https://www.udemy.com/share/101WeY3@pOTyxLDwXUK_nvIdXIEitWlmTPdMjXx8nXPdiJa01MwIlPrno9GL5fe3OFC4m0l4qw==/" target="_blank">Unix Commands Course</a>
 
-</ul> 
 
 - 🖥️ - Latest project ->  <a href="https://github.com/MiguelGuimaraes37/DomManipulationWithJS" target="_blank">Dom Manipulation With JS GitHub Repository</a>
 
