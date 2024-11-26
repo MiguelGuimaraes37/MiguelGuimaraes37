@@ -2,6 +2,8 @@
 <h3 align="center">Junior FullStack Developer from Portugal</h3>
 
 - 🌱 I’m currently learning:
+
+
   <a href="https://www.udemy.com/share/107kpg3@McDTXulhNYjd1gFN2D1JjXatd3ZaZtn1DEYd4CSksUaCypLUsR7A4FvetEXTx-X9VA==/" target="_blank">JS Course </a>
 <br>
 <a href="https://www.udemy.com/share/101WeY3@pOTyxLDwXUK_nvIdXIEitWlmTPdMjXx8nXPdiJa01MwIlPrno9GL5fe3OFC4m0l4qw==/" target="_blank">Unix Commands Course</a>
