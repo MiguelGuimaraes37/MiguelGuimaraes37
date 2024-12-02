@@ -8,10 +8,10 @@
 - <a href="https://www.udemy.com/share/107kpg3@McDTXulhNYjd1gFN2D1JjXatd3ZaZtn1DEYd4CSksUaCypLUsR7A4FvetEXTx-X9VA==/" target="_blank">Unix Commands Course</a>
 
 
-- 🖥️ - Latest project ➡️  <a href="https://github.com/MiguelGuimaraes37/Mapty-App" target="_blank">Mapty App</a>
+- 🖥️ - Latest project 🠮 <a href="https://github.com/MiguelGuimaraes37/Mapty-App" target="_blank">Mapty App</a>
 
 
-- 📫 How to reach me  ➡️ **miguel.guimaraes053722@gmail.com**
+- 📫 How to reach me  🠮 **miguel.guimaraes053722@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
