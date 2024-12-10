@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miguel Guimarães</h1>
 <h3 align="center">Junior FullStack Developer from Portugal</h3>
 
-- 🌱 I’m currently learning:
+🌱 I’m currently learning:
 
 - <a href="https://www.udemy.com/share/101WeY3@pOTyxLDwXUK_nvIdXIEitWlmTPdMjXx8nXPdiJa01MwIlPrno9GL5fe3OFC4m0l4qw==/" target="_blank">JS Course </a>
 
