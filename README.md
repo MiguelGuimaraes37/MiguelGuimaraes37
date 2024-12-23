@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Miguel Guimarães</h1>
 <h3 align="center">Junior FullStack Developer from Portugal</h3>
 
-🌱 I’m currently learning:
+🌱 Latest certification:
 
-- <a href="https://www.udemy.com/share/101WeY3@pOTyxLDwXUK_nvIdXIEitWlmTPdMjXx8nXPdiJa01MwIlPrno9GL5fe3OFC4m0l4qw==/" target="_blank">JS Course </a>
+- <a href="https://www.udemy.com/share/101WeY3@pOTyxLDwXUK_nvIdXIEitWlmTPdMjXx8nXPdiJa01MwIlPrno9GL5fe3OFC4m0l4qw==/" target="_blank">JS Course</a>
 
-🖥️ Latest project 🠮 <a href="https://github.com/MiguelGuimaraes37/Mapty-App" target="_blank">Mapty App</a>
+🖥️ Latest project 🠮 <a href="https://github.com/MiguelGuimaraes37/Forkify.git" target="_blank">Forkify App</a>
 
 📫 How to reach me  🠮 **miguel.guimaraes053722@gmail.com**
 
