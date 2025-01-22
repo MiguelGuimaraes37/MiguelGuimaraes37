@@ -5,7 +5,11 @@
 
 - <a href="https://www.udemy.com/share/101WeY3@pOTyxLDwXUK_nvIdXIEitWlmTPdMjXx8nXPdiJa01MwIlPrno9GL5fe3OFC4m0l4qw==/" target="_blank">JS Course</a>
 
-🖥️ Latest project 🠮 <a href="https://github.com/MiguelGuimaraes37/Forkify.git" target="_blank">Forkify App</a>
+🎓 I'm currently learning: 
+
+- <a href="https://www.udemy.com/share/101WzM3@FpqahNbKSYXEY26E5tJBApv0RHiIZEEvWuy57c_X5nEEAxpL-u8WFyezFtnbp3Sf/" target="_blank">Vue.js Course</a>
+
+🖥️ Latest project 🠮 <a href="https://github.com/MiguelGuimaraes37/main-project-vue" target="_blank">Coach Project</a>
 
 📫 How to reach me  🠮 **miguel.guimaraes053722@gmail.com**
 
