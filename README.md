@@ -9,7 +9,7 @@
 
 - <a href="https://www.udemy.com/share/101WzM3@FpqahNbKSYXEY26E5tJBApv0RHiIZEEvWuy57c_X5nEEAxpL-u8WFyezFtnbp3Sf/" target="_blank">Vue.js Course</a>
 
-🖥️ (STILL DEV PROCESS) Latest project 🠮 <a href="https://github.com/MiguelGuimaraes37/main-project-vue" target="_blank">Coach Project</a>
+🖥️ (STILL DEV PROCESS) Latest project 🠮 <a href="https://github.com/MiguelGuimaraes37/find-a-coach" target="_blank">Find a Coach</a>
 
 📫 How to reach me  🠮 **miguel.guimaraes053722@gmail.com**
 
