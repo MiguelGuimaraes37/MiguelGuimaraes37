@@ -9,7 +9,7 @@
 
 - <a href="https://www.udemy.com/share/101WeY3@pOTyxLDwXUK_nvIdXIEitWlmTPdMjXx8nXPdiJa01MwIlPrno9GL5fe3OFC4m0l4qw==/" target="_blank">JS Course</a>
 
-🖥️ Latest project 🠮 <a href="https://github.com/MiguelGuimaraes37/ExcelFormulator" target="_blank">Form Excelator</a>
+🖥️ Current project 🠮 <a href="https://github.com/MiguelGuimaraes37/SplitNice" target="_blank">Form Excelator</a>
 
 📫 How to reach me  🠮 **miguel.guimaraes053722@gmail.com**
 
