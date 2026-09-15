@@ -7,7 +7,7 @@
 
 🎓 What I've learned before: 
 
-- <a href="[https://www.udemy.com/share/101WzM3@FpqahNbKSYXEY26E5tJBApv0RHiIZEEvWuy57c_X5nEEAxpL-u8WFyezFtnbp3Sf/](https://www.linkedin.com/in/miguelaguimar%C3%A3es/overlay/Certifications/631289087/treasury/?profileId=ACoAADtvleYB3SMPbdEtXGMgDShY57kYMT9fKLc)]" target="_blank">Vue.js Course</a>
+- <a href="https://www.udemy.com/share/101WzM3@FpqahNbKSYXEY26E5tJBApv0RHiIZEEvWuy57c_X5nEEAxpL-u8WFyezFtnbp3Sf/" target="_blank">Vue.js Course</a>
 - <a href="https://www.udemy.com/share/101WeY3@pOTyxLDwXUK_nvIdXIEitWlmTPdMjXx8nXPdiJa01MwIlPrno9GL5fe3OFC4m0l4qw==/" target="_blank">JS Course</a>
 
 🖥️ Current project 🠮 <a href="https://github.com/MiguelGuimaraes37/SplitNice" target="_blank">Split Nice</a>
