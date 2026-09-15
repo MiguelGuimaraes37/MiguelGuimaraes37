@@ -8,9 +8,9 @@
 🎓 What I've learned before: 
 
 - <a href="https://www.udemy.com/share/101WzM3@FpqahNbKSYXEY26E5tJBApv0RHiIZEEvWuy57c_X5nEEAxpL-u8WFyezFtnbp3Sf/" target="_blank">Vue.js Course</a>
-- <a href="https://github.com/MiguelGuimaraes37/FolderCompare" target="_blank">JS Course</a>
+- <a href="https://www.udemy.com/certificate/UC-ccfd02aa-76ef-4b18-bad3-71b90bd9d09e/" target="_blank">JS Course</a>
 
-🖥️ Latest project 🠮 <a href="https://github.com/MiguelGuimaraes37/FormExcelator" target="_blank">Form Excelator</a>
+🖥️ Latest project 🠮 <a href="https://github.com/MiguelGuimaraes37/FolderCompare" target="_blank">Folder Compare</a>
 
 📫 How to reach me  🠮 **miguel.guimaraes053722@gmail.com**
 
