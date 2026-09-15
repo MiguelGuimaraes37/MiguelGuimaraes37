@@ -10,7 +10,7 @@
 - <a href="https://www.udemy.com/share/101WzM3@FpqahNbKSYXEY26E5tJBApv0RHiIZEEvWuy57c_X5nEEAxpL-u8WFyezFtnbp3Sf/" target="_blank">Vue.js Course</a>
 - <a href="https://www.udemy.com/share/101WeY3@pOTyxLDwXUK_nvIdXIEitWlmTPdMjXx8nXPdiJa01MwIlPrno9GL5fe3OFC4m0l4qw==/" target="_blank">JS Course</a>
 
-🖥️ Current project 🠮 <a href="https://github.com/MiguelGuimaraes37/SplitNice" target="_blank">Split Nice</a>
+🖥️ Latest project 🠮 <a href="https://github.com/MiguelGuimaraes37/FormExcelator" target="_blank">Form Excelator</a>
 
 📫 How to reach me  🠮 **miguel.guimaraes053722@gmail.com**
 
